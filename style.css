@@ -122,5 +122,5 @@ button:focus {
     font-size: 27px;
   }
   .currency select{
-    font-size: 12;
+    width:100px;
 }
