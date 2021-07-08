@@ -6,4 +6,4 @@
 - Swap country rates
 
 
-- Website:https://wizardly-curie-b375b3.netlify.app/ 
+- Website:https://dollor-rassiskiy.netlify.app/ 
